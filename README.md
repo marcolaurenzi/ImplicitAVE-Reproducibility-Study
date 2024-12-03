@@ -10,6 +10,7 @@ The implementation provided here reproduces the experiments from the ImplicitAVE
 
 - A Google account is needed to access Google Colab.
 - Familiarity with uploading files in Google Colab.
+- NVIDIA GPU availability (This study has been realized with an A100 - 40GB RAM)
 
 ## Setup Instructions
 
@@ -19,6 +20,7 @@ The implementation provided here reproduces the experiments from the ImplicitAVE
 2. **Upload to Google Colab**:
    - Open the Colab notebook provided in this repository (`qwen_vl.ipynb`) in Google Colab.
    - Upload the `environment.yml` file to the root directory of the Colab environment (i.e., `/content`). You can do this using the "Upload" option in the Colab file browser.
+   - Connect to an NVIDIA GPU.
 
 3. **Run the Notebook**:
    - Once the `environment.yml` file is uploaded, execute all cells in the Colab notebook in sequence.
