@@ -33,6 +33,10 @@ The implementation provided here reproduces the experiments from the ImplicitAVE
 
 The results obtained from running the notebook will be saved in the Colab environment. You can download the results for further analysis.
 
+## Report
+
+The detailed report documenting the methodology, experiments, and findings of this reproducibility study is available [here]().
+
 ## Citation
 
 If you use this repository for your work, please cite it as follows:
