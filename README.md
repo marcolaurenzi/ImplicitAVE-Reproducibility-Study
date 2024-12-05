@@ -37,7 +37,7 @@ The results obtained from running the notebook will be saved in the Colab enviro
 
 ## Report
 
-The detailed report documenting the methodology, experiments, and findings of this reproducibility study is available [here]().
+The detailed report documenting the methodology, experiments, and findings of this reproducibility study is available [here](/Research_Study_Report.pdf).
 
 ## Citation
 
@@ -49,7 +49,9 @@ If you use this repository for your work, please cite it as follows:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/marcolaurenzi/ImplicitAVE-Reproducibility-Study}}
+  howpublished = {\url{https://github.com/marcolaurenzi/ImplicitAVE-Reproducibility-Study/blob/main/Research_Study_Report.pdf}}
 }
 ```
+
+https://github.com/marcolaurenzi/ImplicitAVE-Reproducibility-Study/blob/main/Research_Study_Report.pdf
 If you use this repository, also cite the original [*ImplicitAVE*](https://github.com/HenryPengZou/ImplicitAVE/tree/main) paper.
