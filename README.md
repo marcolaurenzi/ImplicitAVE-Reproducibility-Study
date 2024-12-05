@@ -44,7 +44,7 @@ The detailed report documenting the methodology, experiments, and findings of th
 If you use this repository for your work, please cite it as follows:
 ```bibtex
 @misc{laurenzi2024implicitave,
-  author = {Alessandro Aldo Marina, Marco Laurenzi},
+  author = {Alessandro Aldo Marina and Marco Laurenzi},
   title = {ImplicitAVE Reproducibility Study},
   year = {2024},
   publisher = {GitHub},
